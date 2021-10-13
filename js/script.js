@@ -1,4 +1,4 @@
-let num = +prompt('Введите число');
+const num = +prompt('Введите число');
 let flag = true;
 
 if (num <= 1) {
